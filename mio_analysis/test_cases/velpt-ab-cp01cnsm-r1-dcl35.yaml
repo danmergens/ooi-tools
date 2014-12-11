@@ -1,0 +1,6 @@
+endpoint: velpt-ab-dcl_recovered
+instrument: velpt-ab
+resource: CP01CNSM/R00001/dcl35/ 
+timeout: 400
+source_data:
+- VELPT_snAQD-8550
