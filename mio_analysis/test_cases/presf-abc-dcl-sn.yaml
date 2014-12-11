@@ -1,0 +1,6 @@
+endpoint: presf-abc-dcl_recovered
+instrument: presf-abc-dcl-sn
+resource: sample
+timeout: 120
+source_data:
+- PRESF_SN_26P76848-1386_20140627.hex

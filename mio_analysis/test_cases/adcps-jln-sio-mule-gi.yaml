@@ -1,0 +1,6 @@
+endpoint: adcps-jln-sio-mule_telemetered
+instrument: adcps-jln-sio-mule-gi
+resource: GI02HYPM/D00001
+timeout: 120
+source_data:
+- node14p1.dat
